@@ -35,5 +35,7 @@ Current Version: 0.5.1 released 2012.08.27
 - here is a useful link https://getproductkey.net/download-windows-7-iso-from-microsoft/
 - Download windows7 iso and create a Virtual Machine
 
-
+# Video guide:
+- install -> https://youtu.be/uulJSjLdy1g
+- Scanning -> 
 
